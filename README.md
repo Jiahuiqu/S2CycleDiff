@@ -1,4 +1,4 @@
-# $S^2$ CycleDiff
+# S$^2$ CycleDiff
 # Cite
 @inproceedings{qu2024missing,  
      &emsp; title={$S^2$ CycleDiff: Spatial-Spectral-Bilateral Cycle-Diffusion Frameworkfor Hyperspectral Image Super-Resolution},  
