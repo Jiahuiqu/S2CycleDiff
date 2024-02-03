@@ -8,18 +8,15 @@ The python code implementation of the paper "LDS$^2$AE: Local Diffusion Shared-S
 
 ## Hyperparameters
 
-The windowsize is set to 11 for Trento and Berlin，and is set to 27 for Houston2013！
-
-The train_num_perclass is set to 40.
-
-The batchsize is set to 16.
-
 The optimizer is Adam.
 
 The more detailed training settings are shown in experiments of this paper.
 
-Training & Testing
-just run the LDS2AE_main.py
+Training
+just run the S $^2$ CycleDiff.py
+
+Testing
+just run the S $^2$ CycleDiff_test.py
 
 # Cite
 @inproceedings{qu2024missing,  
