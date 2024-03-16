@@ -1,5 +1,5 @@
-# S $^2$ CycleDiff
-The implementation of the AAAI 2024 paper "LDS$^2$AE: Local Diffusion Shared-Specific Autoencoder for Multimodal Remote Sensing Image Classification with Arbitrary Missing Modalities"
+# S $^2$ CycleDiff for Hyperspectral Image Super-Resolution
+The implementation of the AAAI 2024 paper "S$^2$CycleDiff: Spatial-Spectral-Bilateral Cycle-Diffusion Frameworkfor Hyperspectral Image Super-Resolution"
 
 # Requirements
 
