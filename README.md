@@ -1,4 +1,4 @@
-# S $^2$ CycleDiff for Hyperspectral Image Super-Resolution
+# S $^2$ CycleDiff
 The implementation of the AAAI 2024 paper "S$^2$CycleDiff: Spatial-Spectral-Bilateral Cycle-Diffusion Frameworkfor Hyperspectral Image Super-Resolution"
 
 # Requirements
