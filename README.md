@@ -24,4 +24,5 @@ just run the S $^2$ CycleDiff_test.py
      &emsp; author={Jiahui Qu, Jie He, Wenqian Dong, Jinyu Zhao},  
      &emsp; booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},  
      &emsp; year={2024}  
+     &emsp; doi={10.1609/aaai.v38i5.28262} 
 }
